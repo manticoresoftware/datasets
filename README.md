@@ -2,7 +2,7 @@
 
 ## movies_dummy_dataset.sql.zip
 
-Location - 
+Location - https://github.com/manticoresoftware/datasets/releases/download/files/movies_dummy_dataset.sql.zip
 
 ```sql
 mysql> select count(*) from movies;
